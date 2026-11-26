@@ -49,4 +49,4 @@
 3. *Como o modelo gratuito (preço zero) impacta o volume de rejeição (avaliações negativas) em comparação aos jogos pagos de maior engajamento?*
 
 ---
-> **Nota sobre uso de IA:** O script de extração e tratamento (`coleta_steam.py`) foi estruturado com o auxílio do Google Gemini. Link público da conversa: [COLE O LINK AQUI]
+> **Nota sobre uso de IA:** O script de extração e tratamento (`coleta_steam.py`) foi estruturado com o auxílio do Google Gemini. Link público da conversa: [https://share.gemini.google/cyr9j14l0zl2]
