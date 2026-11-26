@@ -16,7 +16,7 @@
 * **Reunião 02 (16/11/2026):** Desenvolvimento e execução do script em Python, análise dos problemas encontrados nos dados brutos e definição das entidades (`Jogo`, `Empresa`, `Desempenho_Comercial`).
 * **Reunião 03 (24/11/2026):** Criação do GitHub do projeto, escolha do subtema final, criação das perguntas complexas para o BD e montagem dos slides para o pitch.
 
-  ## 4. Resumo Técnico da Fase 01
+## 4. Resumo Técnico da Fase 01
 ### Dicionário Inicial dos Dados
 * `appid` (Inteiro): ID único do jogo na Steam.
 * `name` (Texto): Nome do jogo.
